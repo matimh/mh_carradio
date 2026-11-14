@@ -3,7 +3,11 @@
 simple script with nice nui for music in cars. honestly 50% by me, 50% vibecoded. 
 
 ## preview:
-https://www.youtube.com/watch?v=rUiJ25vpB1s&list=PLN8lyHyEbTIE&index=25
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rUiJ25vpB1s">
+    <img src="https://github.com/user-attachments/assets/dff9d838-88ea-4a61-b500-7eb06ddefbac"> (click on it)/>
+  </a>
+</p>
 ## Requirements
 
 - `ox_lib`
