@@ -2,6 +2,8 @@
 
 simple script with nice nui for music in cars. honestly 50% by me, 50% vibecoded. 
 
+## preview:
+https://www.youtube.com/watch?v=rUiJ25vpB1s&list=PLN8lyHyEbTIE&index=25
 ## Requirements
 
 - `ox_lib`
