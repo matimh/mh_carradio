@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "src/App.tsx",
+    "src/main.tsx",
+    "src/components/LinkInput.tsx",
+    "src/components/NowPlaying.tsx",
+    "src/components/NuiFrame.tsx",
+    "src/components/PlaylistSidebar.tsx",
+    "src/components/PlaylistSongs.tsx",
+    "src/hooks/useNuiEvent.ts",
+    "src/providers/VisibilityProvider.tsx",
+    "src/types/carradio.ts",
+    "src/types/tabler-icons-react.d.ts",
+    "src/utils/debugData.ts",
+    "src/utils/fetchNui.ts",
+    "src/utils/misc.ts",
+    "src/utils/youtube.ts",
+    "src/vite-env.d.ts"
+  ],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}
